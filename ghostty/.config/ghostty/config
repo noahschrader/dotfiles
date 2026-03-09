@@ -59,4 +59,4 @@ keybind = super+shift+d=new_split:down
 keybind = super+[=goto_split:left
 keybind = super+]=goto_split:right
 
-gtk-titlebar = true
+gtk-titlebar = false
